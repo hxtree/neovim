@@ -1,3 +1,11 @@
 *
-!.config/nvim/*
-!.gitignore
+.config/nvim/plugin/packer_compiled.lua
+!/.gitignore
+!/README.md
+!/.config/
+!/.config/wezterm/
+!/.config/wezterm/**
+!/.config/nvim/
+!/.config/nvim/**
+!/.wezterm.lua
+
